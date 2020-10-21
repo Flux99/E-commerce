@@ -40,8 +40,7 @@ router.post(
       currency: 'usd',
       amount: order.price * 100,
       source: token,
-      description : "My First Test Charge (created for API docs",
-
+      description : "My First Test Charge (created for API docs"
     });
     const payment = Payment.build({
       orderId,
