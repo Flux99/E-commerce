@@ -22,6 +22,10 @@
 
 - Nats-Streaming-server
 
+## Sequence Diagram
+
+![Screenshot_1](https://github.com/Flux99/E-commerce/blob/master/e-COMMERCE.jpg?raw=true)
+
 ## Prerequisite
 
 1. Docker for Mac/Windows [Docker desktop](https://docs.docker.com/desktop/)
@@ -80,6 +84,8 @@
 
 - Docker
 
+- Redis
+
 - skaffold
 
 - Typescript
@@ -93,5 +99,3 @@
 - node-nats-streaming
 
 - jest
-
-- bull.js
