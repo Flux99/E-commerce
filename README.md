@@ -23,11 +23,13 @@
 - Nats-Streaming-server
 
 ## System Design Diagram
-![Screenshot_1](https://github.com/Flux99/E-commerce/blob/master/e-COMMERCE.jpg?raw=true)
+
+![Screenshot_1](https://github.com/Flux99/E-commerce/blob/master/System%20Design%20Microservice.jpeg?raw=true)
+
 
 ## Sequence Diagram
 
-![Screenshot_1](https://github.com/Flux99/E-commerce/blob/master/System%20Design%20Microservice.jpeg?raw=true)
+![Screenshot_1](https://github.com/Flux99/E-commerce/blob/master/e-COMMERCE.jpg?raw=true)
 
 ## Prerequisite
 
