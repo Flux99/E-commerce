@@ -2,7 +2,7 @@
 
 ## Description
 
-#### E-Commerce Website Build Using Nodejs,React,Docker and Kubernetes.Created locally using **Minikube** which creates Virtual box on your system that run only 1 **Node K8s Cluster**. App lets users **Create/Buy/Sell** Tickets.
+#### E-Commerce Website Build Using Nodejs,React,Docker and Kubernetes.Created locally using **Minikube** which runs on Virtual box on your system that run only 1 **Node K8s Cluster**. App lets users **Create/Buy/Sell** Tickets.
 
 ### Services
 
